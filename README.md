@@ -1,7 +1,5 @@
 # Predictive-Modeling-for-Agriculture
 
-Project Instructions
-
 Identify the single feature that has the strongest predictive performance for classifying crop types.
 
 Find the feature in the dataset that produces the best score for predicting "crop".
